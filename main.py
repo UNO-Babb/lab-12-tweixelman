@@ -16,7 +16,7 @@ def main():
   random.seed(2020) # This makes sure that the random list will be the same every time.
 
 
-  numberTerms = 10000
+  numberTerms = 20000
 
   orderedList = []
   reversedList = []
